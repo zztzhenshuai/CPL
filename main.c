@@ -12,7 +12,7 @@ int main(){
         scanf("%d",&input);
         if(input>a)
         {
-            printf("猜大了\n");
+            printf("猜大了\n ");
             i++;
         }
         else if(input<a)
