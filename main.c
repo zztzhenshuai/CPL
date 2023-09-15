@@ -8,7 +8,7 @@ int main(){
     while(i<8)
     {
         int input=0;
-        printf("ÇëÊäÈëÄã²ÂµÄÊý×Ö£º");
+        printf("ÇëÊäÈëÄã²ÂµÄÊý×Ö£º ");
         scanf("%d",&input);
         if(input>a)
         {
