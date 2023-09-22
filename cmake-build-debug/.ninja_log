@@ -1,0 +1,14 @@
+# ninja log v5
+2	129	7170684452836297	CMakeFiles/9_22practice.dir/circle.c.obj	3a38e96490f50ea8
+4	136	7170685870615433	CMakeFiles/9_22practice.dir/sphere.c.obj	b240e2cf0e2c6b79
+0	158	7170707874924564	build.ninja	41cd33746ba21dc2
+0	100	7170690125384250	CMakeFiles/9.22practic.dir/circle.c.obj	ee85dc431dffd7a1
+101	263	7170690126948040	9.22practic.exe	37e1487bd0cc6fb1
+0	103	7170690468747567	CMakeFiles/9.22practice.dir/sphere.c.obj	590ef05338390651
+104	261	7170690470281777	9.22practice.exe	f8a59f3acfa13a1a
+2	104	7170691439035087	CMakeFiles/sphere.dir/sphere.c.obj	e352e07914fc5dfb
+105	265	7170691440594585	sphere.exe	41df42bdd222f353
+1	102	7170697230494001	CMakeFiles/oxygen.dir/oxygen.c.obj	8cc3a93b2d641f5d
+103	273	7170697232134626	oxygen.exe	b1fee2ae45c81ad3
+1	120	7170709544206735	CMakeFiles/luodayou.dir/luodayou.c.obj	5b51d53e2901c78e
+121	302	7170709546000831	luodayou.exe	4cc84a136b4267d0

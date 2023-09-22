@@ -1,0 +1,6 @@
+D:/CPLpractice/9.22practice/cmake-build-debug/CMakeFiles/circle.dir
+D:/CPLpractice/9.22practice/cmake-build-debug/CMakeFiles/luodayou.dir
+D:/CPLpractice/9.22practice/cmake-build-debug/CMakeFiles/sphere.dir
+D:/CPLpractice/9.22practice/cmake-build-debug/CMakeFiles/oxygen.dir
+D:/CPLpractice/9.22practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPLpractice/9.22practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
